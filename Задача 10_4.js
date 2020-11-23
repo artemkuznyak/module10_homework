@@ -1,0 +1,1 @@
+let value = Math.round(Math.random()*101)
